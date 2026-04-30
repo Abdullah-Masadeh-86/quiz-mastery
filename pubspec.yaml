@@ -1,0 +1,89 @@
+name: quiz_master
+description: "Quiz Master - Test your knowledge with multiple categories and difficulty levels!"
+
+publish_to: 'none' 
+
+version: 1.1.0+9
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  
+  cupertino_icons: ^1.0.8
+  
+  
+  provider: ^6.1.2
+  
+  
+  shared_preferences: ^2.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^6.0.0
+  
+  
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  assets:
+    - assets/icon/app_icon_foreground.png
+    - assets/icon/8776742.png
+    - assets/playstore/feature_graphic.png
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  
+  
+  
+  adaptive_icon_background: "#6366F1"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
